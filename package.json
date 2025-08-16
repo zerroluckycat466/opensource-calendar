@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "test": "echo \"No tests specified\" && exit 1"  // Placeholder for tests, exit 1 indicates failure
+    "test": "echo \"No tests specified\" && exit 1"  // Platzhalter für Tests, exit 1 zeigt einen Fehler an
   },
   "dependencies": {
     "express": "^4.17.1",
@@ -17,5 +17,5 @@
     "nodemon": "^2.0.4"
   },
   "license": "MIT",
-  "author": "-" // Author information can be added here in the future
+  "author": "-" // Autorinformationen können hier in Zukunft hinzugefügt werden
 }
