@@ -16,5 +16,6 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "author": "-" // Author information can be added here in the future
 }
