@@ -1,7 +1,7 @@
 {
   "name": "opensource-calendar",
   "version": "1.0.0",
-  "description": "An open-source calendar that allows users to discover and manage events in their area.",
+  "description": "Ein Open-Source-Kalender, der es Benutzern ermöglicht, Veranstaltungen in ihrer Nähe zu entdecken und zu verwalten.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
